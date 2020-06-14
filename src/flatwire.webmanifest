@@ -1,0 +1,21 @@
+{
+    "name": "Flatwire",
+    "short_name": "Flatwire",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "A tool for fireframing and interface requirements management",
+    "icons": [
+        {
+            "src": "/assets/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000",
+    "background_color": "#000"
+}

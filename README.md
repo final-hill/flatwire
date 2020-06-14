@@ -1,2 +1,3 @@
 # Flatwire
-A tool for Wireframing and interface requirements management
+
+A tool for fireframing and interface requirements management
