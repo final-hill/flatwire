@@ -1,7 +1,7 @@
 module.exports = {
   // productionTip: false,
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/standing-echo/'
+    ? '/flatwire/'
     : '/',
   pwa: {
     manifestPath: 'manifest.webmanifest',
