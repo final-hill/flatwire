@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9de894542fadf8f1fadbab12edd36b14.js"
+  "/standing-echo/precache-manifest.238708b1b88f1f9bd4f2d474246f3b4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "flatwire"});
