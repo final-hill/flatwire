@@ -1,4 +1,4 @@
-# flatwire
+# Flatwire
 
 ## Project setup
 ```
