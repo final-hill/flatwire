@@ -1,11 +1,5 @@
-# EditorConfig: https://EditorConfig.org
-
-# top-most EditorConfig file
-root = true
-
-[*.{ts,json,config}]
-charset = utf-8
-end_of_line = crlf
-indent_size = 4
+[*.{js,jsx,ts,tsx,vue}]
 indent_style = space
+indent_size = 2
 trim_trailing_whitespace = true
+insert_final_newline = true
